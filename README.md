@@ -1,1 +1,2 @@
-# webview_mint_template
+# Webview Mint-lang template
+
